@@ -1,0 +1,2 @@
+GetSkiReport  get the ski report for {ResortName}
+GetSkiReport  for the ski report for {ResortName}

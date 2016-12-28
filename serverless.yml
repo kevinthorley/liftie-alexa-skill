@@ -1,0 +1,11 @@
+service: liftie-getskireport
+
+provider:
+  name: aws
+  runtime: nodejs4.3
+
+functions:
+  getskireport:
+    handler: handler.getSkiReport
+    events:
+      - alexaSkill

@@ -1,0 +1,10 @@
+{
+  "name": "liftie-getskireport",
+  "version": "1.0.0",
+  "description": "Support for Liftie ski report Alexa skill",
+  "author": "Kevin Thorley",
+  "dependencies": {
+    "aws-sdk": "^2.6.7",
+    "request": "^2.79.0",
+  }
+}

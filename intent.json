@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetSkiReport",
+      "slots": [
+        {
+          "name": "ResortName",
+          "type": "LIST_OF_RESORTS"
+        }
+      ]
+    }
+  ]
+}
